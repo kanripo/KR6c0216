@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:54.545198
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:46
 #+TITLE: 仁王般若實相論卷第二
 #+PROPERTY: CBETA_ID T85n2744
 #+PROPERTY: ID KR6c0216
@@ -71,7 +71,7 @@ No.2744[cf.No.245]¶
 涅槃行也。世界不可思議者。法界無障礙行¶
 也。¶
 
-受持品
+* 受持品
 :PROPERTIES:
 :head: 受持品
 :END:
@@ -473,7 +473,7 @@ No.2744[cf.No.245]¶
 是十地以還訖伏忍。攝是因行。故與三昧之¶
 稱。復有十億現成正覺者。始彰果德。¶
 
-囑累品
+* 囑累品
 :PROPERTIES:
 :head: 囑累品
 :END:
